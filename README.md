@@ -13,4 +13,8 @@ Aliases:
 -t = title,
 -b = body
 
+Covers:
+basic node, fs, lodash, yargs,
+filter, looping, ternary operators, command(), serializing and deserialising
+
 
