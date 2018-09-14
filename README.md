@@ -1,6 +1,6 @@
 # notes-node
 Notes app (nodejs) 
-(used as a tutorial for mentoring)
+(good node tutorial for mentoring)
 
 Functionality is as follows:
 
