@@ -4,9 +4,13 @@ Created to work out a tutorial for mentoring.
 
 Functionality is as follows:
 
-add -t=<title> -b=<body>
-read -t=<title>
+add -t -b
+read -t
 list
-remove -t=<title>  
+remove -t
+
+Aliases 
+-t = title
+-b = body
 
 
